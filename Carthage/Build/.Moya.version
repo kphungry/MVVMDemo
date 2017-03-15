@@ -1,0 +1,18 @@
+{
+  "xcodeVersion" : "Xcode 8.2.1\nBuild version 8C1002",
+  "commitish" : "8.0.3",
+  "iOS" : [
+    {
+      "hash" : "80ad522af1e455292df824f77df7e322d6485d4c18a60bfd75cb4d4ba2da52db",
+      "name" : "RxMoya"
+    },
+    {
+      "hash" : "4324736d5dbcf2222142513dcfb85ba130ec9640f69b6081b9f4868313d177e0",
+      "name" : "ReactiveMoya"
+    },
+    {
+      "hash" : "f4b5d47ccdb26594400b61afe9b46b81d624e40c36e0fb128c73451b6a338816",
+      "name" : "Moya"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "xcodeVersion" : "Xcode 8.2.1\nBuild version 8C1002",
+  "commitish" : "1.1.0",
+  "iOS" : [
+    {
+      "hash" : "de1015166b282c8dd4911e871854ca183e36656f6fe7ef2bc25e0a48507925c1",
+      "name" : "Result"
+    },
+    {
+      "hash" : "9fcc89dc05f9f92ff17dfda2cfdc69774cc19651ce5a660a6e64c063a34982e0",
+      "name" : "ReactiveSwift"
+    }
+  ]
+}

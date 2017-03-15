@@ -1,0 +1,6 @@
+github "SwiftyJSON/SwiftyJSON"
+github "Yalantis/PullToRefresh"
+github "ReactiveCocoa/ReactiveCocoa"
+github "Moya/Moya"
+github "alibaba/HandyJSON"
+github "onevcat/Kingfisher"

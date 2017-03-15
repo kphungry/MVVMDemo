@@ -1,0 +1,10 @@
+{
+  "xcodeVersion" : "Xcode 8.2.1\nBuild version 8C1002",
+  "commitish" : "1.6.1",
+  "iOS" : [
+    {
+      "hash" : "761a0954cdc29a1a7196c9b5f98a7e8e51c2637bd45bf16a6bd7283c5a1fc4ef",
+      "name" : "HandyJSON"
+    }
+  ]
+}

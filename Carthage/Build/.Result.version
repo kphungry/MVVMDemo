@@ -1,0 +1,10 @@
+{
+  "xcodeVersion" : "Xcode 8.2.1\nBuild version 8C1002",
+  "commitish" : "3.2.1",
+  "iOS" : [
+    {
+      "hash" : "e66bda9006241e9cd7f7d0272dfc11a4b064e42787452e756183aec0f39b8013",
+      "name" : "Result"
+    }
+  ]
+}

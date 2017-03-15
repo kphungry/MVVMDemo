@@ -1,0 +1,10 @@
+{
+  "xcodeVersion" : "Xcode 8.2.1\nBuild version 8C1002",
+  "commitish" : "2.0.2",
+  "iOS" : [
+    {
+      "hash" : "e8b3e117ea1b523984ca426a5ef325c59032a3b17834523d9274fe24f6355dba",
+      "name" : "PullToRefresh"
+    }
+  ]
+}
